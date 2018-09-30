@@ -1,0 +1,79 @@
+
+div{
+    margin: 0 auto;
+    width: 40%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+nav{
+margin-left: 10px;
+margin-right: 10px;
+align-self: center;
+display: inline-block;
+color: blue;
+background-color: white;
+padding:10px;
+border-radius: 10px;
+border: none
+}
+a:link, a:visited {
+    background-color:lightgrey;
+    color: black;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 3%
+}
+
+a:hover, a:active {
+  background-color: gray;
+}
+
+li{
+    margin-bottom: 10px;
+}
+
+.Bereidingswijze{
+    margin-bottom: 20px;
+}
+
+#Tip{
+    border-radius: 4px;
+    background-color: #def6ed;
+    padding: 20px;
+    margin-top: 25px;
+
+}
+
+#Paragraaf1{
+  font-size: 24px;
+  line-height: 32px;
+}
+
+#title{
+border-bottom-style: solid;
+width: auto;
+}
+
+
+p {
+    font-size: 20px;
+  }
+
+h1{
+    font-size: 36px;
+    line-height: 36px;
+  }
+
+h2{
+      font-size: 32px;
+      line-height: 32px;
+  }
+
+.foto{
+width: 40%;
+height: auto;
+}
